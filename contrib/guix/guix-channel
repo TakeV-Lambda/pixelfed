@@ -1,6 +1,6 @@
 (channel
   (version 0)
-  (directory "./modules"))
+  (directory "contrib/guix/modules"))
 
 
 ;;; Local Variables:
