@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Run guix shell with a [C]ontainer, linked [P]rofile,
+# [N]etwork, [m]anifest, and [f]ile
+guix shell -CPNFm dev-manifest.scm -f modules/pixelfed.scm

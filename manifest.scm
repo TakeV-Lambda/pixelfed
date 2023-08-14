@@ -1,0 +1,1 @@
+contrib/guix/dev-manifest.scm

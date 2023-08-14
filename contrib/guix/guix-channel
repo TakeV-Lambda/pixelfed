@@ -1,0 +1,8 @@
+(channel
+  (version 0)
+  (directory "./modules"))
+
+
+;;; Local Variables:
+;;; mode: scheme
+;;; End:
